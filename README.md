@@ -1,16 +1,122 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anuradha Pandey </h1>
+<h3 align="center">Salesforce Developer | Salesforce Admin | CRM Enthusiast</h3>
+ 
+<p align="center">
+<img src="https://img.shields.io/badge/Salesforce-Developer-blue?style=for-the-badge&logo=salesforce" />
+<img src="https://img.shields.io/badge/Trailhead-Ranger-brightgreen?style=for-the-badge&logo=salesforce" />
+</p>
+ 
+---
+ 
+## 👨‍💻 About Me
 
-<!--
-**anuradhapandey512-cmyk/anuradhapandey512-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Salesforce Administration and Development**
 
-Here are some ideas to get you started:
+- 🌱 I’m learning **Apex, Lightning Web Components (LWC), SOQL, and Flows**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Interested in **CRM Solutions, Automation, and Cloud Technologies**
+
+- 🎯 Goal: To become a skilled **Salesforce Developer**
+
+- ⚡ Fun fact: I enjoy solving business problems using Salesforce automation
+ 
+---
+ 
+## 📌 Profile Details
+
+- **Username:** anuradhapandey512-cmyk
+
+- **Full Name:** Anuradha Pandey
+
+- **Email:** anuradhapandey512@gmail.com
+
+- **Phone Number:** +91-8353939960
+
+- **Location:** Hyderabad, India
+
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+ 
+---
+ 
+## 🛠️ Skills
+
+- Salesforce Administration
+
+- Salesforce Development
+
+- Apex
+
+- Lightning Web Components (LWC)
+
+- SOQL / SOSL
+
+- Salesforce Flow
+
+- Process Builder
+
+- Validation Rules
+
+- Reports & Dashboards
+
+- Data Loader
+
+- Git & GitHub
+ 
+---
+ 
+## 🚀 Projects
+
+### 1. Salesforce CRM Automation
+
+- Automated lead assignment and follow-up process using **Flows**
+
+- Improved response time and reduced manual work
+ 
+### 2. Student Management App
+
+- Created custom objects, relationships, validation rules, and reports
+
+- Built a simple management system on Salesforce
+ 
+### 3. Lightning Web Component Project
+
+- Developed reusable UI components using **LWC**
+
+- Integrated Apex controllers for backend functionality
+ 
+---
+ 
+## 🏆 Certifications / Achievements
+
+- Salesforce Administrator
+
+- Salesforce Platform Developer I
+
+- Intellipaat Salesforce Certificate
+
+- Completed hands-on projects on Salesforce
+ 
+---
+ 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuradhapandey512-cmyk&show_icons=true&theme=default)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuradhapandey512-cmyk&layout=compact)
+ 
+---
+ 
+## 🤝 Connect With Me
+
+- 📧 Email: anuradhapandey512@gmail.com
+
+- 📱 Phone: +91-8353939960
+
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+ 
+---
+ 
+## ✨ Quote
+
+*"Turning business ideas into scalable CRM solutions with Salesforce."*
+ 
