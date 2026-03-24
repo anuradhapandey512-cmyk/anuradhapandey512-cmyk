@@ -34,7 +34,7 @@
 
 - **Location:** Hyderabad, India
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** www.linkedin.com/in/anuradha-pandey-a58a31227
  
 ---
  
@@ -112,7 +112,7 @@
 
 - 📱 Phone: +91-8353939960
 
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: www.linkedin.com/in/anuradha-pandey-a58a31227
  
 ---
  
