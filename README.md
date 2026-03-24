@@ -88,10 +88,6 @@
  
 ## 🏆 Certifications / Achievements
 
-- Salesforce Administrator
-
-- Salesforce Platform Developer I
-
 - Intellipaat Salesforce Certificate
 
 - Completed hands-on projects on Salesforce
